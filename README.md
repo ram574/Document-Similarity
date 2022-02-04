@@ -1,6 +1,8 @@
 # Document-Similarity
 use case to find similar documents from different databases
 # Welcome !
+This is a project implemented in my internship and data given to model is STS benchmak which is a open source but for your case you can  
+input data that is preprocessed.
 
 ### Hi there, I'm ram - Data Scientist / Analyst [codeLOVEr]
 
