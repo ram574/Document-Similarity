@@ -9,10 +9,10 @@ This is a project implemented Similar in my internship and data given to model i
 
 ## I'm a Data Science, Machine Learning, NLP, Deep Learning, Artificial Intelligence Enthusiast!!
 
-- 🔭 I am a recent Graduate : [Want to Become A Data Scientist!]
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I am a Data Scientist
+- 🌱 I’m Passionate in solving problems 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Improve and gain Knowledge on ML techniques
+- 🥅 2020 Goals: Improve and gain Knowledge on ML, DL, NLP techniques
 - ⚡ Fun fact: I love to travel, play video games, reading and writing articles
 
 ### Connect with me:
