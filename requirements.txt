@@ -1,0 +1,18 @@
+## Requirements
+
+Python 3.10
+virtual environment
+
+## Packages
+
+Pandas
+Numpy
+Gensim
+
+## Pre-trained models
+
+Fasttext
+Wor2Vec
+TF-IDF
+Doc2Vec
+Glove
