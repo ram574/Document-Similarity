@@ -8,6 +8,9 @@ virtual environment
 Pandas
 Numpy
 Gensim
+Scipy
+Scrapbook
+Sk-learn
 
 ## Pre-trained models
 
