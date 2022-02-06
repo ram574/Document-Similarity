@@ -11,6 +11,8 @@ Gensim
 Scipy
 Scrapbook
 Sk-learn
+Spacy
+NLTK
 
 ## Pre-trained models
 
