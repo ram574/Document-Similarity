@@ -18,9 +18,6 @@ This is a project implemented Similar in my internship and data given to model i
 ### Connect with me:
 
 ### [linkedin] [https://www.linkedin.com/in/tulasiram574]
-### [Medium] [https://www.tulasiram574.medium.com]
-### [Skype] [https://join.skype.com/invite/m73hqlTWoETf]
-### [Instagram] [https://www.instagram.com/ram_lucky574/]
 
 ### Contact me
 ### [E-mail]
